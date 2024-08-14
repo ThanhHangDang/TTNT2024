@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/testjavaweb/controller/admin/HomeController.java=UTF-8
+encoding//src/main/java/com/testjavaweb/controller/admin/NewsController.java=UTF-8
+encoding//src/main/java/com/testjavaweb/controller/web/HomeController.java=UTF-8
+encoding//src/main/java/com/testjavaweb/dao/impl/NewsDAO.java=UTF-8
+encoding//src/main/java/com/testjavaweb/model/CategoryModel.java=UTF-8
+encoding//src/main/java/com/testjavaweb/model/CommentModel.java=UTF-8
+encoding//src/main/java/com/testjavaweb/model/NewsModel.java=UTF-8
+encoding//src/main/java/com/testjavaweb/model/RoleModel.java=UTF-8
+encoding//src/main/java/com/testjavaweb/model/UserModel.java=UTF-8
+encoding//src/main/java/com/testjavaweb/services/impl/CategoryService.java=UTF-8
+encoding//src/main/java/com/testjavaweb/services/impl/NewsService.java=UTF-8
+encoding//src/main/webapp/common/web/footer.jsp=UTF-8
+encoding//src/main/webapp/common/web/header.jsp=UTF-8
